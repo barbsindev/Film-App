@@ -1,0 +1,13 @@
+.film-container {
+  margin: 150px;
+  text-align: center;
+}
+@media only screen and (max-width: 780px) {
+  .film-container {
+    margin: 20px;
+  }
+  .film-img {
+    width: 100%;
+    height: auto;
+  }
+}
